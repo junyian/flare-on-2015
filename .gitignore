@@ -1,1 +1,5 @@
+# IDA database
 *.i64
+# Ghidra project files
+*.rep
+*.gpr
